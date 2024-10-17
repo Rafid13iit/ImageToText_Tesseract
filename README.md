@@ -1,8 +1,3 @@
-# React + Vite
+# OCR using Tesseract
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+The repository ImageToText_Tesseract contains a project that utilizes Tesseract.js, a JavaScript library, for performing OCR (Optical Character Recognition). It extracts text from images, allowing users to convert image-based text into editable text format.
